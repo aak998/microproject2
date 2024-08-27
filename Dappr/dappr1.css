@@ -1,0 +1,237 @@
+.wrapper{
+    height: 2072px;
+    width: 1450px;
+    /* background-color: aquamarine; */
+    /* border: 2px solid red; */
+}
+.header{
+width: 1450px;
+background-color: 
+#6F6AF7;
+/* border: 2px solid red; */
+display: flex;
+justify-content: space-around;
+
+}
+h1{
+    font-family: "Delius Unicase", cursive;
+    color:  #FFFFFF;
+    font-size: 61px;
+}
+ul{
+    display: flex;
+
+    list-style-type: none;
+    
+}
+ul li{
+    margin: 42px 20px 10px;
+    /* border: 1px solid white; */
+    padding: 0px 10px;
+    font-family: "DM Sans", sans-serif;
+    color:#FFFFFF ;
+    font-size:  36.43px;
+}
+#btn{
+    width: 300px;
+    height: 40px;
+    border-radius: 50px;
+    margin-top:20px ;
+}
+#searchi{
+    width: 160px;
+    height: 30px;
+    margin-top: 70px;
+    /* right: 20px; */
+    border-radius: 10px;
+    /* border-radius: ; */
+}
+
+#vectori{
+    width: 40px;
+    height: 40px;
+   margin-top: 65px;
+}
+#box1{
+    height: 600px;
+    width:auto;
+    /* border:2px solid yellow; */
+    display:flex;
+margin-top: 30px;
+}
+#box1 p{
+    text-indent: 20px;
+    font-family: "DM Sans", sans-serif;
+ line-height: 37px;
+  top: 40px;
+  font-weight: 400px;
+}
+#fram{
+    height:380px ;
+    width: 380px;
+margin-left: 85px;
+border-radius: 15px;
+}
+#tex1{
+    height:382px ;
+    width: 700px;
+    background-color: #E5D8FF;
+    margin-left: 60px;
+margin-top: -1px;
+border-radius: 15px;
+color: #6F7373;
+text-align: left;
+letter-spacing: 2px;
+line-height: 1.8;
+word-spacing: 2px;
+text-shadow: 2px 2px 5px #6F7373;
+text-align: justify;
+}
+#box2{
+
+    margin: 0px 20px 0px 50px;
+    /* border: 1px solid rgb(0, 255, 106); */
+    display:flex;
+    /* box-shadow:rgb(30, 3, 3); */
+    padding: 10px;
+    /* justify-content: space-between; */
+    column-gap: 40px;
+
+    /* float: left; */
+    text-align: center;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700px;
+}
+.button1{ 
+    height:140px;
+    width:280px;
+    color: #FFFFFF;
+   background-color: #929DFF;
+   border-radius: 20px;  
+}
+.button2{
+    height:140px;
+    width:280px; color: #FFFFFF;
+    background-color: #734CF2;
+    border-radius: 20px;  
+ }
+ .button3{
+    height:140px;
+    width:280px; 
+    color: #FFFFFF;
+    background-color: #D288FF;
+    border-radius: 20px;  
+ }
+ .button4{
+    height:140px;
+    width:280px;
+    color: #FFFFFF;
+    background-color: #000000;
+    border-radius: 20px;  
+ }
+#box3{
+    margin:30px 0px 0px 60px;
+    width:1242px;
+    height: 517px;
+    border: 1px solid blue;
+    background-color: #483EFF;
+    border-radius: 20px;
+    /* display: flex; */
+}
+.box31{
+
+    width: 250px;
+    height: 350px;
+    /* display: flex; */
+    /* flex-direction: column; */
+    border-radius: 10px;
+    /* justify-content: space-between; */
+    /* border: 1px solid white; */
+    /* padding: 60px; */
+    margin-left: 90px;
+    margin-top: 90px;
+    font-family: "DM Sans", sans-serif;
+}
+.button5{
+    width: 230px;
+    height: 43px;
+    border: 1px solid white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 8px;
+    color: #000000;
+    margin-top:10px ;
+    margin-left: 8px;
+    background-color: #BCE0F6;
+    /* box-shadow: 0.5px 5px #000000 ; */
+    /* opacity: 0.5; */
+    box-shadow: 0px 6px 35px 0px #00000063;
+
+}
+.button6{
+    width: 230px;
+    height: 43px;
+    border: 1px solid white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    color: #FFFFFF;
+    margin-top: 100px;
+    line-height: ;
+}
+.button7{
+    width: 230px;
+    height: 43px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 50px;
+    text-align: center;
+    padding: 10px;
+    color: #FFFFFF;
+}
+#text2{
+    width: 800px;
+    height: 400px;
+    background-color: #FFFFFF;
+border:2px solid green;
+margin-left: 310px;
+margin-top:-100px;
+border-radius: 10px;
+}
+#box32{
+    margin-top: 10px;
+    margin-left:110px ;
+    font-family: "Roboto", sans-serif;
+    /* font-weight: 10; */
+    font-style: normal;
+    color: #143565;
+  }
+#info2{
+    margin-left: 80px;
+    font-family: "Inter", sans-serif;
+    color: #04285A;
+}
+   #next{
+    height: 50px;
+    width: 150px;
+    background-color: #000000;
+    color: white;
+    margin-top: 90px;
+    margin-left: 600px;
+    border-radius: 5px;
+   }
+   #box4{
+
+    /* overflow: scroll; */
+   }
+   #fname2{
+    /* margin-top: -1200px;
+    margin-left: 1250px; */
+    /* float: right;
+    position: sticky;
+    overflow: visible; */
+    position: fixed; bottom: 0; left: 1350px;right: 0;top: 10px;
+   }
+   #smile{
+    position: fixed; bottom: 0; left: 1150px;right: 0;
+   }
